@@ -1,4 +1,10 @@
 first line
 second line
+<<<<<<< HEAD
 between 2 and 3
 third line
+=======
+third line
+
+ffff
+>>>>>>> d2622ea70bfe01a7606aaa4f60de9cf395fd5915
